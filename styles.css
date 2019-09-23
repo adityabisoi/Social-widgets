@@ -1,0 +1,44 @@
+body{
+    background: linear-gradient(rgba(0, 0,100, 0.5),rgba(0, 0, 100, 0.5)),url(download.jpg) center center fixed;
+    text-align: center;
+    font-family: 'Arvo', serif;
+
+    background-size: cover;
+}
+.jumbotron{
+    background-color: transparent;
+    color: aliceblue
+}
+.jumbotron h1{
+    letter-spacing: 2.5px;
+}
+.form-horizontal{
+    margin-top: 50px;
+
+}
+
+#yo{
+    width: 30%;
+    margin-left:35% ;
+    margin-right: 65%;
+
+    
+}
+
+.row{
+    position: relative;
+
+    top: 30px;
+}
+.fb-like{
+    position: absolute;
+    left: 40em;
+    
+}
+
+.twitter{
+    position: absolute;
+    right: 40em;
+
+
+}
